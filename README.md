@@ -1,4 +1,4 @@
-# 📊 Análisis de Datos de Tiendas - Proyecto en Python 🐍
+# 📊 Análisis de Datos de Tiendas - Proyecto en Python 
 
 ## 📌 Descripción
 
@@ -39,11 +39,6 @@ proyecto-analisis-tiendas/
 - Pandas
 - Jupyter Notebook (opcional para visualización interactiva)
 
-Instalación de dependencias:
-
-```bash
-pip install -r requerimientos.txt
-```
 
 ---
 
@@ -72,8 +67,7 @@ Se recomienda que el Sr. Juan venda en Tienda 2, ya que tiene la mayor facturaci
 
 ## 👤 Autor
 
-Desarrollado por **[Tu Nombre Aquí]**  
-✉️ Contacto: tunombre@email.com
+Desarrollado por **Milagros Yucra**  
 
 ---
 
